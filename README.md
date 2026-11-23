@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=Daniel%20Maude&fontSize=62&fontColor=00ff41&fontAlignY=38&desc=%5B%20root%40danielmaude28%20%5D&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=Danielmaude28&fontSize=58&fontColor=00ff41&fontAlignY=38&desc=%5B%20root%40Danielmaude28%20%5D&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/danielmaude28">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+Initializing+system...;%3E+Access+granted.;%3E+Mobile+Hacker+%7C+Android+Tinkerer;%3E+Termux+%7C+Python+%7C+Automation;%3E+Learning+never+stops." alt="Typing SVG" />
@@ -13,9 +13,9 @@
 ## `$ whoami`
 
 ```bash
-root@danielmaude28:~$ cat profile.txt
+root@Danielmaude28:~$ cat profile.txt
 
-NAME      : Daniel Maude
+NAME      : Danielmaude28
 ALIAS     : danielmaude28
 STATUS    : Online
 FOCUS     : Android Internals | Automation | Local AI | Embedded Hardware
@@ -85,7 +85,7 @@ LOCATION  : /dev/indonesia
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-danielmaude28-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/danielmaude28)
+[![GitHub](https://img.shields.io/badge/GitHub-Danielmaude28-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/danielmaude28)
 
 </div>
 
