@@ -56,6 +56,35 @@ LOCATION  : /dev/indonesia
 
 ---
 
+## `$ ls ~/repos --featured`
+
+<div align="center">
+
+<a href="https://github.com/danielmaude28/twrp-device-tree-builder-x6531b-android14">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmaude28&repo=twrp-device-tree-builder-x6531b-android14&theme=base16&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" />
+</a>
+<a href="https://github.com/danielmaude28/android-system-diagnostic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmaude28&repo=android-system-diagnostic&theme=base16&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" />
+</a>
+
+<a href="https://github.com/danielmaude28/root-manager-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmaude28&repo=root-manager-android&theme=base16&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" />
+</a>
+<a href="https://github.com/danielmaude28/voucher-wifi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmaude28&repo=voucher-wifi&theme=base16&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" />
+</a>
+
+<a href="https://github.com/danielmaude28/openwrt-4c-usb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmaude28&repo=openwrt-4c-usb&theme=base16&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" />
+</a>
+<a href="https://github.com/danielmaude28/win10-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielmaude28&repo=win10-builder&theme=base16&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" />
+</a>
+
+</div>
+
+---
+
 ## `$ ./stats.sh`
 
 <div align="center">
